@@ -9,8 +9,8 @@ specific tasks and diseases in practice. This approach is labor-intensive, time-
 substantial storage capacity and costs. To address these challenges, we developed a framework 
 featuring a visual-language model-powered, task-adaptive microscope, seamlessly integrated with 
 cutting-edge AI technologies. Our system incorporates a large language model to enable automatic 
-image acquisition, customized analysis, and user-friendly human-microscope interaction. This AIintegrated microscope is equipped with self-adapted stage movement, lens switching, and key 
-parameter adjustments in response to specific language and visual commands. We conducted proofof-concept demonstrations for both tissue and cellular pathology analyses, showcasing the 
+image acquisition, customized analysis, and user-friendly human-microscope interaction. This AI-integrated microscope is equipped with self-adapted stage movement, lens switching, and key 
+parameter adjustments in response to specific language and visual commands. We conducted proof-of-concept demonstrations for both tissue and cellular pathology analyses, showcasing the 
 microscope’s capabilities in qualitative and quantitative clinical task. The visual-language task-driven 
 processing allows the microscope to automatically respond to complex pathological interpretations, 
 producing more accurate and enriched diagnostic contents. Our innovation presents a significant 
@@ -23,7 +23,7 @@ the need for slide-level pixel scanning, big data storage, and specialized model
 
 ### Hardware Requirements (Microscope)
 
-Ensure that the system contains sufficient main memory space (minimum: 8 GB) to allow for the connection of microscopes.
+Please ensure that the system has enough main memory space (minimum: 8 GB) to allow for the connection of microscopes.
 
 Use the free Micro Manager (MM) software to configure a local electric microscope and connect controllable components to the computer through a serial port.
 The MM package and detailed tutorials can be obtained from https://micro-manager.org/. Or use a more convenient SDK managed by the microscope supplier.
