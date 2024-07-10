@@ -218,7 +218,7 @@ def VLT_HCC_Seg_4slides():
     hcc_predictor10 = hccPredictor10()
 
     slide_results = []
-    wjtn = 10
+    wjtn = 4
     converter(core, wjtn)
     Focus_time_X, Focus_time_Y = 6, 11
     for s in slide_num:
