@@ -1,22 +1,7 @@
 # VLT-OM
 
 ## Abstract
-Microscopes are indispensable tools for pathologists in routine clinical diagnoses. The advancement
-of digital pathology and artificial intelligence (AI) has led to the emergence of a new discipline, 
-diagnostic pathological AIs, primarily utilized in clinical settings. However, current AI-assisted 
-pathological diagnoses rely on Whole Slide Images (WSIs), limiting the application of models to 
-specific tasks and diseases in practice. This approach is labor-intensive, time-consuming, and requires 
-substantial storage capacity and costs. To address these challenges, we developed a framework 
-featuring a visual-language model-powered, task-adaptive microscope, seamlessly integrated with 
-cutting-edge AI technologies. Our system incorporates a large language model to enable automatic 
-image acquisition, customized analysis, and user-friendly human-microscope interaction. This AI-integrated microscope is equipped with self-adapted stage movement, lens switching, and key 
-parameter adjustments in response to specific language and visual commands. We conducted proof-of-concept demonstrations for both tissue and cellular pathology analyses, showcasing the 
-microscope’s capabilities in qualitative and quantitative clinical task. The visual-language task-driven 
-processing allows the microscope to automatically respond to complex pathological interpretations, 
-producing more accurate and enriched diagnostic contents. Our innovation presents a significant 
-advancement in the nascent field of smart microscopy for digital pathology. It has the potential to 
-facilitate the workflow of AI-assisted pathological diagnosis in routine clinical practice, eliminating 
-the need for slide-level pixel scanning, big data storage, and specialized model development.
+Microscopes are indispensable tools for pathologists in routine clinical diagnoses. However, current AI-assisted pathological smart diagnoses rely on Whole Slide Images (WSIs),  ignoring the application of microscopes to specific tasks and diseases in practice. The WSI-based approach is labor-intensive, time-consuming, and requires substantial storage capacity and costs. Herein, we developed a framework featuring a visual-language model-powered, task-adaptive microscope, seamlessly integrated with cutting-edge AI technologies. Our system incorporates a large language model to enable automatic image acquisition, customized analysis, and user-friendly human-microscope interaction. This AI-integrated microscope is equipped with self-adapted stage movement, lens switching, and key parameter adjustments in response to specific language and visual commands. We conducted proof-of-concept demonstrations for both tissue and cellular pathology analyses. Our innovation has the potential to facilitate the workflow of AI-assisted pathological diagnosis in routine clinical practice, eliminating the need for slide-level pixel scanning, big data storage, and specialized model development.
 
 
 ## Requirements
