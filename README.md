@@ -1,4 +1,4 @@
-# Next-Generation Smart Microscopy
+# VLT
 
 ## Abstract
 Microscopes are essential partners for pathologists in routine clinical diagnoses. However, current AI-assisted solutions primarily rely on Whole Slide Images (WSIs), which overlook the development of generic microscopes in intelligent pathology. WSI-based AI solutions are labor-intensive, time-consuming, and require substantial storage capacity and costs. Here, we developed a Visual-Language Task-driven (VLT) framework that seamlessly integrates visual and language foundation models with widely used forms of microscopy. VLT enables automatic image acquisition, customized analysis, and other intuitive human-microscope interactions. VLT features self-adaptive stage movement, lens switching, and key parameter adjustments in response to language commands and visual cues. Proof-of-concept evaluations, including cancer diagnosis and quantitative assessments, demonstrate the efficacy of VLT. The VLT-powered microscope offers an efficient and economical solution for AI-assisted intelligent pathology, eliminating the need for slide-level pixel scanning, extensive data storage, and specialized model development.
